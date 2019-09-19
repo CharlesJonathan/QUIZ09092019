@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Program Dasar(CJ)\bin\Debug\netcoreapp2.2\Program Dasar(CJ).deps.json
+C:\Users\User\Desktop\Program Dasar(CJ)\bin\Debug\netcoreapp2.2\Program Dasar(CJ).runtimeconfig.json
+C:\Users\User\Desktop\Program Dasar(CJ)\bin\Debug\netcoreapp2.2\Program Dasar(CJ).runtimeconfig.dev.json
+C:\Users\User\Desktop\Program Dasar(CJ)\bin\Debug\netcoreapp2.2\Program Dasar(CJ).dll
+C:\Users\User\Desktop\Program Dasar(CJ)\bin\Debug\netcoreapp2.2\Program Dasar(CJ).pdb
+C:\Users\User\Desktop\Program Dasar(CJ)\obj\Debug\netcoreapp2.2\Program Dasar(CJ).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Program Dasar(CJ)\obj\Debug\netcoreapp2.2\Program Dasar(CJ).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Program Dasar(CJ)\obj\Debug\netcoreapp2.2\Program Dasar(CJ).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Program Dasar(CJ)\obj\Debug\netcoreapp2.2\Program Dasar(CJ).AssemblyInfo.cs
+C:\Users\User\Desktop\Program Dasar(CJ)\obj\Debug\netcoreapp2.2\Program Dasar(CJ).dll
+C:\Users\User\Desktop\Program Dasar(CJ)\obj\Debug\netcoreapp2.2\Program Dasar(CJ).pdb
